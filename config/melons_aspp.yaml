@@ -1,0 +1,87 @@
+name: ESCNN
+base: ['config/melons.yaml']
+distributed: True
+arch:
+  type: ESCNNModel
+  args:
+    backbone: resnest101_aspp
+    pretrained: true
+    training: true
+    segmentation_body:
+      type: FPEM_FFM
+      args:
+        inner_channels: 256
+    segmentation_head:
+      type: espp
+      args:
+        num_classes: 3
+loss:
+  type: CriterionDSN
+  args:
+    thresh: 0.6
+    min_kept: 13654
+# optimizer:
+#  type: Adam
+#  args:
+#    lr: 0.001
+#    weight_decay: 0.008
+#    amsgrad: true
+optimizer:
+  type: SGD
+  args:
+    lr: 0.01
+    weight_decay: 0.0005
+    momentum: 0.9
+# lr_scheduler:
+#   type: WarmupPolyLR
+#   args:
+#     warmup_epoch: 2
+lr_scheduler:
+  type: ReduceLROnPlateau
+  args:
+    factor: 0.1
+    patience: 2
+    verbose: true
+    threshold: 0.0001
+    min_lr: 0.0000001
+    # threshold_mode: 'abs'
+    eps: 0.000000001
+
+trainer:
+  seed: 2
+  epochs: 300
+  log_iter: 10
+  show_images_iter: 50
+  resume_checkpoint: ''
+  finetune_checkpoint: ''
+  output_dir: output
+  tensorboard: true
+dataset:
+  train:
+    dataset:
+      args:
+        data_path:
+          - /data/melons/dataset/list/melon/train.txt
+        img_mode: RGB
+        eval_mode: false
+    loader:
+      batch_size: 10
+      shuffle: False
+      pin_memory: false
+      num_workers: 4
+      drop_last: false
+      collate_fn: ''
+  validate:
+    dataset:
+      args:
+        data_path:
+          - test.txt
+        img_mode: RGB
+        eval_mode: true
+
+    loader:
+      batch_size: 4
+      shuffle: true
+      pin_memory: false
+      num_workers: 5
+      collate_fn:

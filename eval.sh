@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python3 tools/eval.py --model_path '/data/ESCCN2/output/ESCNN_resnest101_aspp_FPEM_FFM_espp_20200614_034040/checkpoint/model_best.pth'

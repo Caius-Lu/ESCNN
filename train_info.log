@@ -1,0 +1,4402 @@
+config/melons_aspp.yaml
+config/melons_aspp.yaml
+config/melons_aspp.yaml
+config/melons_aspp.yaml
+4397 images are loaded!
+True
+742 images are loaded!
+Missing key(s) in state_dict: layer3.10.bn3.num_batches_tracked, layer3.21.bn2.num_batches_tracked, layer3.5.bn2.num_batches_tracked, layer1.0.bn1.num_batches_tracked, layer3.10.bn1.num_batches_tracked, layer3.1.bn1.num_batches_tracked, layer4.0.bn2.num_batches_tracked, layer2.2.bn3.num_batches_tracked, layer1.0.bn3.num_batches_tracked, layer3.15.bn3.num_batches_tracked, layer3.18.bn2.num_batches_tracked, layer3.11.bn1.num_batches_tracked, layer1.1.bn2.num_batches_tracked, layer3.6.bn3.num_batches_tracked, layer3.1.bn3.num_batches_tracked, layer2.0.downsample.1.num_batches_tracked, layer3.12.bn3.num_batches_tracked, layer2.1.bn2.num_batches_tracked, layer3.0.bn2.num_batches_tracked, layer3.19.bn1.num_batches_tracked, layer4.2.bn1.num_batches_tracked, layer3.4.bn3.num_batches_tracked, layer4.1.bn3.num_batches_tracked, layer3.17.bn1.num_batches_tracked, layer3.22.bn3.num_batches_tracked, layer3.4.bn2.num_batches_tracked, bn3.num_batches_tracked, layer3.8.bn3.num_batches_tracked, layer2.1.bn1.num_batches_tracked, layer3.20.bn1.num_batches_tracked, layer3.8.bn1.num_batches_tracked, layer3.3.bn3.num_batches_tracked, layer3.4.bn1.num_batches_tracked, layer3.15.bn1.num_batches_tracked, layer4.2.bn2.num_batches_tracked, layer3.14.bn3.num_batches_tracked, layer3.0.downsample.1.num_batches_tracked, layer2.0.bn3.num_batches_tracked, layer3.11.bn3.num_batches_tracked, layer2.0.bn1.num_batches_tracked, layer2.3.bn2.num_batches_tracked, layer1.1.bn1.num_batches_tracked, layer4.1.bn2.num_batches_tracked, layer3.1.bn2.num_batches_tracked, layer2.2.bn2.num_batches_tracked, layer1.0.bn2.num_batches_tracked, layer3.5.bn1.num_batches_tracked, bn2.num_batches_tracked, layer3.13.bn1.num_batches_tracked, bn1.num_batches_tracked, layer3.7.bn1.num_batches_tracked, layer3.22.bn1.num_batches_tracked, layer4.0.downsample.1.num_batches_tracked, layer3.16.bn2.num_batches_tracked, layer1.0.downsample.1.num_batches_tracked, layer3.2.bn3.num_batches_tracked, layer3.13.bn3.num_batches_tracked, layer3.6.bn2.num_batches_tracked, layer3.6.bn1.num_batches_tracked, layer2.1.bn3.num_batches_tracked, layer4.0.bn3.num_batches_tracked, layer3.22.bn2.num_batches_tracked, layer1.1.bn3.num_batches_tracked, layer3.19.bn3.num_batches_tracked, layer4.0.bn1.num_batches_tracked, layer3.10.bn2.num_batches_tracked, layer3.18.bn1.num_batches_tracked, layer2.3.bn3.num_batches_tracked, layer3.11.bn2.num_batches_tracked, layer3.15.bn2.num_batches_tracked, layer3.21.bn1.num_batches_tracked, layer3.3.bn2.num_batches_tracked, layer3.9.bn2.num_batches_tracked, layer3.9.bn3.num_batches_tracked, layer3.14.bn1.num_batches_tracked, layer3.16.bn3.num_batches_tracked, layer3.14.bn2.num_batches_tracked, layer1.2.bn1.num_batches_tracked, layer3.3.bn1.num_batches_tracked, layer3.0.bn3.num_batches_tracked, layer2.0.bn2.num_batches_tracked, layer3.21.bn3.num_batches_tracked, layer3.5.bn3.num_batches_tracked, layer3.2.bn1.num_batches_tracked, layer3.20.bn2.num_batches_tracked, layer3.20.bn3.num_batches_tracked, layer3.18.bn3.num_batches_tracked, layer3.7.bn3.num_batches_tracked, layer3.12.bn1.num_batches_tracked, layer3.17.bn2.num_batches_tracked, layer3.16.bn1.num_batches_tracked, layer1.2.bn3.num_batches_tracked, layer2.2.bn1.num_batches_tracked, layer3.19.bn2.num_batches_tracked, layer1.2.bn2.num_batches_tracked, layer3.2.bn2.num_batches_tracked, layer2.3.bn1.num_batches_tracked, layer3.9.bn1.num_batches_tracked, layer4.1.bn1.num_batches_tracked, layer4.2.bn3.num_batches_tracked, layer3.7.bn2.num_batches_tracked, layer3.8.bn2.num_batches_tracked, layer3.0.bn1.num_batches_tracked, layer3.12.bn2.num_batches_tracked, layer3.17.bn3.num_batches_tracked, layer3.13.bn2.num_batches_tracked
+Unexpected key(s) in state_dict: fc.bias, fc.weight
+4397 images are loaded!
+True
+742 images are loaded!
+4397 images are loaded!
+True
+4397 images are loaded!
+True
+742 images are loaded!
+742 images are loaded!
+Missing key(s) in state_dict: layer1.0.bn2.num_batches_tracked, layer3.6.bn1.num_batches_tracked, layer3.4.bn2.num_batches_tracked, layer3.13.bn1.num_batches_tracked, layer3.13.bn2.num_batches_tracked, layer2.2.bn3.num_batches_tracked, layer3.19.bn2.num_batches_tracked, layer3.16.bn2.num_batches_tracked, layer3.6.bn3.num_batches_tracked, layer1.1.bn1.num_batches_tracked, layer2.0.downsample.1.num_batches_tracked, layer3.0.bn3.num_batches_tracked, bn2.num_batches_tracked, layer3.17.bn2.num_batches_tracked, layer3.12.bn2.num_batches_tracked, layer3.22.bn3.num_batches_tracked, layer2.2.bn1.num_batches_tracked, layer3.17.bn3.num_batches_tracked, layer4.1.bn2.num_batches_tracked, layer3.0.bn2.num_batches_tracked, layer2.3.bn1.num_batches_tracked, layer3.16.bn1.num_batches_tracked, layer3.1.bn1.num_batches_tracked, layer3.11.bn2.num_batches_tracked, layer3.14.bn3.num_batches_tracked, layer3.2.bn3.num_batches_tracked, layer3.2.bn1.num_batches_tracked, layer3.6.bn2.num_batches_tracked, layer3.20.bn2.num_batches_tracked, layer3.2.bn2.num_batches_tracked, layer3.5.bn2.num_batches_tracked, layer3.0.bn1.num_batches_tracked, layer1.2.bn2.num_batches_tracked, layer3.15.bn1.num_batches_tracked, layer3.10.bn3.num_batches_tracked, layer3.10.bn2.num_batches_tracked, layer3.9.bn3.num_batches_tracked, layer4.0.downsample.1.num_batches_tracked, layer1.1.bn2.num_batches_tracked, layer3.3.bn2.num_batches_tracked, layer1.1.bn3.num_batches_tracked, layer3.1.bn3.num_batches_tracked, layer3.13.bn3.num_batches_tracked, layer2.0.bn1.num_batches_tracked, layer3.7.bn3.num_batches_tracked, layer3.21.bn2.num_batches_tracked, layer3.21.bn3.num_batches_tracked, layer3.14.bn2.num_batches_tracked, layer2.0.bn3.num_batches_tracked, layer3.4.bn3.num_batches_tracked, layer3.11.bn3.num_batches_tracked, layer3.18.bn1.num_batches_tracked, layer4.0.bn1.num_batches_tracked, bn3.num_batches_tracked, layer3.8.bn3.num_batches_tracked, layer1.2.bn1.num_batches_tracked, layer4.2.bn2.num_batches_tracked, layer4.1.bn1.num_batches_tracked, layer1.2.bn3.num_batches_tracked, layer2.1.bn1.num_batches_tracked, layer3.4.bn1.num_batches_tracked, layer1.0.downsample.1.num_batches_tracked, layer2.1.bn3.num_batches_tracked, layer1.0.bn1.num_batches_tracked, layer4.2.bn1.num_batches_tracked, layer1.0.bn3.num_batches_tracked, layer3.8.bn2.num_batches_tracked, layer3.7.bn2.num_batches_tracked, layer3.15.bn3.num_batches_tracked, layer2.0.bn2.num_batches_tracked, layer3.19.bn3.num_batches_tracked, layer4.0.bn3.num_batches_tracked, layer3.10.bn1.num_batches_tracked, layer4.2.bn3.num_batches_tracked, bn1.num_batches_tracked, layer3.19.bn1.num_batches_tracked, layer3.18.bn2.num_batches_tracked, layer3.18.bn3.num_batches_tracked, layer3.17.bn1.num_batches_tracked, layer3.3.bn3.num_batches_tracked, layer3.8.bn1.num_batches_tracked, layer3.14.bn1.num_batches_tracked, layer4.0.bn2.num_batches_tracked, layer3.5.bn3.num_batches_tracked, layer3.22.bn2.num_batches_tracked, layer3.12.bn3.num_batches_tracked, layer3.16.bn3.num_batches_tracked, layer3.20.bn1.num_batches_tracked, layer3.12.bn1.num_batches_tracked, layer3.20.bn3.num_batches_tracked, layer4.1.bn3.num_batches_tracked, layer2.1.bn2.num_batches_tracked, layer3.7.bn1.num_batches_tracked, layer3.22.bn1.num_batches_tracked, layer2.3.bn2.num_batches_tracked, layer3.9.bn2.num_batches_tracked, layer3.11.bn1.num_batches_tracked, layer3.21.bn1.num_batches_tracked, layer3.0.downsample.1.num_batches_tracked, layer3.1.bn2.num_batches_tracked, layer2.3.bn3.num_batches_tracked, layer2.2.bn2.num_batches_tracked, layer3.5.bn1.num_batches_tracked, layer3.15.bn2.num_batches_tracked, layer3.9.bn1.num_batches_tracked, layer3.3.bn1.num_batches_tracked
+Unexpected key(s) in state_dict: fc.bias, fc.weight
+Missing key(s) in state_dict: layer3.11.bn2.num_batches_tracked, layer3.13.bn3.num_batches_tracked, layer3.15.bn2.num_batches_tracked, layer2.0.bn2.num_batches_tracked, layer4.2.bn2.num_batches_tracked, layer4.0.bn2.num_batches_tracked, layer1.2.bn1.num_batches_tracked, layer3.21.bn1.num_batches_tracked, layer3.5.bn3.num_batches_tracked, layer3.8.bn2.num_batches_tracked, bn2.num_batches_tracked, layer3.10.bn3.num_batches_tracked, layer3.5.bn1.num_batches_tracked, layer1.2.bn3.num_batches_tracked, layer4.1.bn3.num_batches_tracked, layer3.19.bn1.num_batches_tracked, layer4.0.bn3.num_batches_tracked, layer3.18.bn2.num_batches_tracked, layer3.6.bn2.num_batches_tracked, layer3.9.bn2.num_batches_tracked, layer3.12.bn3.num_batches_tracked, layer3.5.bn2.num_batches_tracked, layer1.1.bn2.num_batches_tracked, layer1.0.downsample.1.num_batches_tracked, layer3.14.bn1.num_batches_tracked, layer3.8.bn3.num_batches_tracked, layer3.16.bn3.num_batches_tracked, layer3.7.bn2.num_batches_tracked, layer2.1.bn3.num_batches_tracked, layer3.20.bn2.num_batches_tracked, layer2.1.bn1.num_batches_tracked, layer3.1.bn1.num_batches_tracked, layer3.3.bn1.num_batches_tracked, layer2.0.downsample.1.num_batches_tracked, layer2.2.bn3.num_batches_tracked, layer3.19.bn3.num_batches_tracked, layer3.22.bn3.num_batches_tracked, layer2.1.bn2.num_batches_tracked, layer3.3.bn3.num_batches_tracked, layer3.11.bn3.num_batches_tracked, layer2.3.bn3.num_batches_tracked, layer3.16.bn2.num_batches_tracked, layer1.0.bn2.num_batches_tracked, layer1.1.bn1.num_batches_tracked, layer3.1.bn3.num_batches_tracked, layer2.2.bn2.num_batches_tracked, layer3.17.bn2.num_batches_tracked, layer3.0.bn3.num_batches_tracked, layer3.2.bn1.num_batches_tracked, layer4.0.downsample.1.num_batches_tracked, layer2.0.bn1.num_batches_tracked, layer3.21.bn2.num_batches_tracked, layer1.0.bn1.num_batches_tracked, layer3.17.bn1.num_batches_tracked, layer3.12.bn1.num_batches_tracked, layer3.17.bn3.num_batches_tracked, layer3.3.bn2.num_batches_tracked, layer3.15.bn1.num_batches_tracked, layer3.14.bn2.num_batches_tracked, layer3.9.bn1.num_batches_tracked, layer3.10.bn2.num_batches_tracked, layer3.7.bn1.num_batches_tracked, layer3.22.bn2.num_batches_tracked, layer3.16.bn1.num_batches_tracked, layer4.0.bn1.num_batches_tracked, layer3.1.bn2.num_batches_tracked, layer3.11.bn1.num_batches_tracked, layer3.18.bn3.num_batches_tracked, layer3.12.bn2.num_batches_tracked, layer3.19.bn2.num_batches_tracked, layer4.1.bn2.num_batches_tracked, layer2.0.bn3.num_batches_tracked, layer3.0.bn1.num_batches_tracked, layer3.6.bn3.num_batches_tracked, layer3.22.bn1.num_batches_tracked, bn1.num_batches_tracked, layer3.4.bn3.num_batches_tracked, layer3.0.bn2.num_batches_tracked, bn3.num_batches_tracked, layer3.15.bn3.num_batches_tracked, layer3.2.bn3.num_batches_tracked, layer3.2.bn2.num_batches_tracked, layer3.20.bn3.num_batches_tracked, layer4.2.bn3.num_batches_tracked, layer2.2.bn1.num_batches_tracked, layer3.18.bn1.num_batches_tracked, layer3.7.bn3.num_batches_tracked, layer3.20.bn1.num_batches_tracked, layer3.13.bn1.num_batches_tracked, layer3.14.bn3.num_batches_tracked, layer4.2.bn1.num_batches_tracked, layer3.0.downsample.1.num_batches_tracked, layer2.3.bn1.num_batches_tracked, layer3.13.bn2.num_batches_tracked, layer3.21.bn3.num_batches_tracked, layer4.1.bn1.num_batches_tracked, layer3.8.bn1.num_batches_tracked, layer1.2.bn2.num_batches_tracked, layer3.4.bn1.num_batches_tracked, layer2.3.bn2.num_batches_tracked, layer3.9.bn3.num_batches_tracked, layer3.4.bn2.num_batches_tracked, layer1.1.bn3.num_batches_tracked, layer3.10.bn1.num_batches_tracked, layer3.6.bn1.num_batches_tracked, layer1.0.bn3.num_batches_tracked
+Missing key(s) in state_dict: layer3.22.bn3.num_batches_tracked, layer3.12.bn3.num_batches_tracked, layer2.2.bn2.num_batches_tracked, layer1.1.bn1.num_batches_tracked, layer4.1.bn1.num_batches_tracked, layer3.8.bn2.num_batches_tracked, layer2.1.bn3.num_batches_tracked, layer2.0.bn3.num_batches_tracked, layer3.19.bn3.num_batches_tracked, layer4.1.bn2.num_batches_tracked, layer1.1.bn3.num_batches_tracked, layer3.7.bn2.num_batches_tracked, layer3.7.bn3.num_batches_tracked, layer3.10.bn2.num_batches_tracked, layer3.0.bn1.num_batches_tracked, layer3.14.bn1.num_batches_tracked, layer4.0.bn3.num_batches_tracked, layer3.5.bn3.num_batches_tracked, layer3.12.bn1.num_batches_tracked, layer3.18.bn1.num_batches_tracked, layer3.11.bn2.num_batches_tracked, layer3.20.bn1.num_batches_tracked, layer3.5.bn1.num_batches_tracked, layer3.0.bn2.num_batches_tracked, layer3.18.bn2.num_batches_tracked, layer3.8.bn3.num_batches_tracked, layer3.3.bn2.num_batches_tracked, layer3.22.bn2.num_batches_tracked, layer3.0.downsample.1.num_batches_tracked, layer3.10.bn1.num_batches_tracked, layer3.19.bn2.num_batches_tracked, layer3.4.bn3.num_batches_tracked, layer1.0.bn3.num_batches_tracked, layer1.0.downsample.1.num_batches_tracked, layer2.2.bn1.num_batches_tracked, layer1.2.bn2.num_batches_tracked, layer1.0.bn1.num_batches_tracked, layer3.7.bn1.num_batches_tracked, layer3.4.bn2.num_batches_tracked, layer3.15.bn1.num_batches_tracked, layer4.2.bn2.num_batches_tracked, layer4.2.bn3.num_batches_tracked, layer4.2.bn1.num_batches_tracked, layer3.5.bn2.num_batches_tracked, layer3.2.bn1.num_batches_tracked, layer2.0.bn2.num_batches_tracked, layer3.2.bn3.num_batches_tracked, layer2.1.bn1.num_batches_tracked, layer3.20.bn2.num_batches_tracked, layer1.2.bn1.num_batches_tracked, layer3.11.bn3.num_batches_tracked, layer3.9.bn1.num_batches_tracked, layer3.16.bn1.num_batches_tracked, layer3.17.bn1.num_batches_tracked, layer3.1.bn1.num_batches_tracked, layer3.22.bn1.num_batches_tracked, layer3.16.bn3.num_batches_tracked, layer3.11.bn1.num_batches_tracked, layer3.10.bn3.num_batches_tracked, layer3.18.bn3.num_batches_tracked, layer3.17.bn3.num_batches_tracked, layer3.6.bn2.num_batches_tracked, bn2.num_batches_tracked, layer4.0.bn1.num_batches_tracked, layer4.0.downsample.1.num_batches_tracked, layer3.3.bn3.num_batches_tracked, layer3.8.bn1.num_batches_tracked, layer3.12.bn2.num_batches_tracked, layer3.1.bn2.num_batches_tracked, layer3.6.bn3.num_batches_tracked, layer3.13.bn3.num_batches_tracked, layer3.1.bn3.num_batches_tracked, layer4.1.bn3.num_batches_tracked, layer2.3.bn2.num_batches_tracked, layer3.14.bn3.num_batches_tracked, layer3.9.bn2.num_batches_tracked, layer2.2.bn3.num_batches_tracked, layer3.19.bn1.num_batches_tracked, layer3.0.bn3.num_batches_tracked, layer3.4.bn1.num_batches_tracked, layer3.15.bn3.num_batches_tracked, bn1.num_batches_tracked, layer3.3.bn1.num_batches_tracked, layer3.9.bn3.num_batches_tracked, layer2.1.bn2.num_batches_tracked, layer2.0.downsample.1.num_batches_tracked, layer3.13.bn2.num_batches_tracked, layer3.14.bn2.num_batches_tracked, layer3.17.bn2.num_batches_tracked, layer3.2.bn2.num_batches_tracked, layer3.21.bn1.num_batches_tracked, bn3.num_batches_tracked, layer4.0.bn2.num_batches_tracked, layer3.6.bn1.num_batches_tracked, layer3.21.bn3.num_batches_tracked, layer3.15.bn2.num_batches_tracked, layer1.1.bn2.num_batches_tracked, layer3.16.bn2.num_batches_tracked, layer1.0.bn2.num_batches_tracked, layer1.2.bn3.num_batches_tracked, layer3.13.bn1.num_batches_tracked, layer3.20.bn3.num_batches_tracked, layer2.0.bn1.num_batches_tracked, layer2.3.bn3.num_batches_tracked, layer2.3.bn1.num_batches_tracked, layer3.21.bn2.num_batches_tracked
+Unexpected key(s) in state_dict: fc.weight, fc.bias
+Unexpected key(s) in state_dict: fc.bias, fc.weight
+2020-06-17 10:05:01,271 ESCNN INFO: {'arch': {'args': {'backbone': 'resnest101_aspp',
+                   'pretrained': True,
+                   'segmentation_body': {'args': {'inner_channels': 256},
+                                         'type': 'FPEM_FFM'},
+                   'segmentation_head': {'args': {'num_classes': 3},
+                                         'type': 'espp'},
+                   'training': True},
+          'type': 'ESCNNModel'},
+ 'dataset': {'train': {'dataset': {'args': {'data_path': ['/data/melons/dataset/list/melon/train.txt'],
+                                            'eval_mode': False,
+                                            'img_mode': 'RGB',
+                                            'transforms': [{'args': {},
+                                                            'type': 'ToTensor'},
+                                                           {'args': {'mean': [0.5081455,
+                                                                              0.5081455,
+                                                                              0.5081455],
+                                                                     'std': [0.25244877,
+                                                                             0.25244877,
+                                                                             0.25244877]},
+                                                            'type': 'Normalize'}]},
+                                   'type': 'melonDataset'},
+                       'loader': {'batch_size': 10,
+                                  'collate_fn': '',
+                                  'drop_last': False,
+                                  'num_workers': 4,
+                                  'pin_memory': False,
+                                  'shuffle': False}},
+             'validate': {'dataset': {'args': {'data_path': ['test.txt'],
+                                               'eval_mode': True,
+                                               'img_mode': 'RGB',
+                                               'transforms': [{'args': {},
+                                                               'type': 'ToTensor'},
+                                                              {'args': {'mean': [0.5081455,
+                                                                                 0.5081455,
+                                                                                 0.5081455],
+                                                                        'std': [0.25244877,
+                                                                                0.25244877,
+                                                                                0.25244877]},
+                                                               'type': 'Normalize'}]},
+                                      'type': 'melonDataset'},
+                          'loader': {'batch_size': 4,
+                                     'collate_fn': None,
+                                     'num_workers': 5,
+                                     'pin_memory': False,
+                                     'shuffle': True}}},
+ 'distributed': True,
+ 'local_rank': 0,
+ 'loss': {'args': {'min_kept': 13654, 'thresh': 0.6}, 'type': 'CriterionDSN'},
+ 'lr_scheduler': {'args': {'eps': 1e-09,
+                           'factor': 0.1,
+                           'min_lr': 1e-07,
+                           'patience': 2,
+                           'threshold': 0.0001,
+                           'verbose': True},
+                  'type': 'ReduceLROnPlateau'},
+ 'name': 'ESCNN_resnest101_aspp_FPEM_FFM_espp',
+ 'optimizer': {'args': {'lr': 0.01, 'momentum': 0.9, 'weight_decay': 0.0005},
+               'type': 'SGD'},
+ 'trainer': {'epochs': 300,
+             'finetune_checkpoint': '',
+             'log_iter': 10,
+             'output_dir': '/data/ESCCN2/output',
+             'resume_checkpoint': '',
+             'seed': 2,
+             'show_images_iter': 50,
+             'tensorboard': True}}
+2020-06-17 10:05:01,271 ESCNN INFO: train with device cuda and pytorch 1.4.0
+2020-06-17 10:05:10,364 ESCNN INFO: train dataset has 4397 samples,110 in dataloader, validate dataset has 742 samples,47 in dataloader
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.013548978892239657 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.013548978892239657 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.013548978892239657 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.013548978892239657 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.02574184157631614 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.02574184157631614 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.02574184157631614 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)0.02574184157631614 3
+ 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.035954322598197246 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.035954322598197246 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.035954322598197246 2
+0.035954322598197246 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.04441568851470947 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.04441568851470947 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.04441568851470947 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.04441568851470947 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.0513852444562045 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.0513852444562045 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.0513852444562045 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.0513852444562045 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.05721406503157182 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.05721406503157182 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.05721406503157182 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.05721406503157182 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.062045115232467654 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.062045115232467654 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.062045115232467654 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.062045115232467654 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.0660587497732856 0
+0.0660587497732856 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.0660587497732856 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.0660587497732856 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.06989275704730641 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.06989275704730641 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.06989275704730641 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.06989275704730641 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.07346525463190946 0
+2020-06-17 10:05:33,706 ESCNN INFO: [1/300], [10/110], global_step: 10, speed: 4.3 samples/sec, acc: 0.3340, iou_Mean_map: 0.3047, loss: 0.3930, loss1: 0.2469, loss2: 0.3317, , lr:0.01, time:23.34
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.07346525463190946 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.07346525463190946 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.07346525463190946 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.07683431289412758 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.07683431289412758 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.07683431289412758 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.07683431289412758 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.08030655654993925 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.08030655654993925 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.08030655654993925 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.08030655654993925 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.08381343781948089 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.08381343781948089 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.08381343781948089 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.08381343781948089 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.08713959103280848 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.08713959103280848 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.08713959103280848 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.08713959103280848 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.09032205099409277 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.09032205099409277 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.09032205099409277 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.09032205099409277 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.09384657388383692 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.09384657388383692 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.09384657388383692 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.09384657388383692 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.09711519181728363 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.09711519181728363 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.09711519181728363 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.09711519181728363 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.10057582665573467 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.10057582665573467 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.10057582665573467 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.10057582665573467 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.10417452481659976 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.10417452481659976 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.10417452481659976 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.10417452481659976 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1074663522568616 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.1074663522568616 2
+0.1074663522568616 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1074663522568616 0
+2020-06-17 10:05:48,171 ESCNN INFO: [1/300], [20/110], global_step: 20, speed: 6.9 samples/sec, acc: 0.3338, iou_Mean_map: 0.3128, loss: 0.3621, loss1: 0.2751, loss2: 0.2346, , lr:0.01, time:14.46
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.11094632230021736 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.11094632230021736 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.11094632230021736 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.11094632230021736 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.11427050070329146 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.11427050070329146 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.11427050070329146 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.11427050070329146 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.11727684058926323 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.11727684058926323 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.11727684058926323 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.11727684058926323 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.12056957293640483 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.12056957293640483 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.12056957293640483 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.12056957293640483 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.12383044876835562 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.12383044876835562 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.12383044876835562 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.12383044876835562 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1270246297121048 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.1270246297121048 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.1270246297121048 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1270246297121048 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1303229657086459 3
+0.1303229657086459 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+ 3
+0.1303229657086459 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.1303229657086459 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1335424304008484 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.1335424304008484 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.1335424304008484 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1335424304008484 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.13652120151303032 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)0.13652120151303032 1
+ 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)0.13652120151303032 3
+ 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.13652120151303032 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1396121482957493 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.1396121482957493 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1396121482957493 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.1396121482957493 0
+2020-06-17 10:06:01,798 ESCNN INFO: [1/300], [30/110], global_step: 30, speed: 7.3 samples/sec, acc: 0.3338, iou_Mean_map: 0.3149, loss: 0.3400, loss1: 0.2570, loss2: 0.2211, , lr:0.01, time:13.63
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.14241404533386232 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.14241404533386232 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.14241404533386232 0
+0.14241404533386232 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.14530394510789352 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.14530394510789352 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.14530394510789352 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.14530394510789352 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1483007636937228 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.1483007636937228 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1483007636937228 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1483007636937228 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.15104999162934044 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.15104999162934044 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.15104999162934044 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)0.15104999162934044 3
+ 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.15378180335868488 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.15378180335868488 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.15378180335868488 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.15378180335868488 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.15669465606862848 0
+0.15669465606862848 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.15669465606862848 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.15669465606862848 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.15949149158867923 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.15949149158867923 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.15949149158867923 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.15949149158867923 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.16223050599748437 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.16223050599748437 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.16223050599748437 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.16223050599748437 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1650361643596129 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.1650361643596129 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1650361643596129 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1650361643596129 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.16776985742829062 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.16776985742829062 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.16776985742829062 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.16776985742829062 0
+2020-06-17 10:06:16,301 ESCNN INFO: [1/300], [40/110], global_step: 40, speed: 6.9 samples/sec, acc: 0.3349, iou_Mean_map: 0.3166, loss: 0.3007, loss1: 0.2394, loss2: 0.2275, , lr:0.01, time:14.50
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.17052296941930598 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.17052296941930598 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.17052296941930598 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.17052296941930598 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.17332999868826432 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.17332999868826432 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.17332999868826432 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.17332999868826432 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.17603876157240433 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.17603876157240433 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.17603876157240433 0
+0.17603876157240433 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.17875329743732105 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.17875329743732105 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.17875329743732105 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.17875329743732105 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1813673135909167 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.1813673135909167 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1813673135909167 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1813673135909167 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.18394585956226694 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.18394585956226694 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.18394585956226694 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.18394585956226694 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.18648819815028797 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.18648819815028797 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.18648819815028797 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.18648819815028797 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.18898271186785265 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.18898271186785265 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.18898271186785265 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.18898271186785265 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1915460933338512 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.1915460933338512 1
+0.1915460933338512 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1915460933338512 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.19407648227431556 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.19407648227431556 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.19407648227431556 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.19407648227431556 0
+2020-06-17 10:06:30,066 ESCNN INFO: [1/300], [50/110], global_step: 50, speed: 7.3 samples/sec, acc: 0.3347, iou_Mean_map: 0.3170, loss: 0.2783, loss1: 0.2004, loss2: 0.1754, , lr:0.01, time:13.76
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1967058691111478 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.1967058691111478 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.1967058691111478 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.1967058691111478 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.19920267787846652 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.19920267787846652 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.19920267787846652 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)0.19920267787846652 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+ 1
+0.20170799006115306 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.20170799006115306 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.20170799006115306 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.20170799006115306 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.204146532849832 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.204146532849832 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.204146532849832 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.204146532849832 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.20659653408960862 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.20659653408960862 1
+0.20659653408960862 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.20659653408960862 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.20913767435333946 1
+0.20913767435333946 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+ 1
+0.20913767435333946 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.20913767435333946 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.21170912222428756 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.21170912222428756 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.21170912222428756 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.21170912222428756 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.21424493301998485 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.21424493301998485 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.21424493301998485 3
+0.21424493301998485 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.216824579780752 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.216824579780752 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.216824579780752 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.216824579780752 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.21909603056582538 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.21909603056582538 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.21909603056582538 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.21909603056582538 0
+2020-06-17 10:06:45,409 ESCNN INFO: [1/300], [60/110], global_step: 60, speed: 6.5 samples/sec, acc: 0.3345, iou_Mean_map: 0.3170, loss: 0.2499, loss1: 0.1889, loss2: 0.1631, , lr:0.01, time:15.34
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2215248242020607 0
+0.2215248242020607 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2215248242020607 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2215248242020607 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.223932876505635 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.223932876505635 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.223932876505635 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.223932876505635 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.22656118287281557 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.22656118287281557 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.22656118287281557 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.22656118287281557 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.22944479110566052 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.22944479110566052 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.22944479110566052 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.22944479110566052 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.23195283616131002 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)0.23195283616131002 2
+ 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.23195283616131002 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.23195283616131002 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.234342661364512 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.234342661364512 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.234342661364512 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.234342661364512 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.23688183332031423 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.23688183332031423 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.23688183332031423 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.23688183332031423 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.23915528506040573 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.23915528506040573 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.23915528506040573 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.23915528506040573 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2417143386873332 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2417143386873332 1
+0.2417143386873332 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)0.2417143386873332 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+ 0
+0.24413176327943803 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.24413176327943803 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.24413176327943803 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.24413176327943803 0
+2020-06-17 10:06:59,844 ESCNN INFO: [1/300], [70/110], global_step: 70, speed: 6.9 samples/sec, acc: 0.3347, iou_Mean_map: 0.3174, loss: 0.2659, loss1: 0.1961, loss2: 0.1750, , lr:0.01, time:14.43
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2464914407242428 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.2464914407242428 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2464914407242428 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2464914407242428 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.248951431973414 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.248951431973414 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.248951431973414 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.248951431973414 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.25136585357514296 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.25136585357514296 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.25136585357514296 3
+0.25136585357514296 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+ 1
+0.2536802507259629 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2536802507259629 0
+0.2536802507259629 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2536802507259629 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.25598220811648803 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.25598220811648803 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.25598220811648803 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.25598220811648803 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.25822476148605344 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.25822476148605344 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.25822476148605344 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.25822476148605344 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2608085458928889 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2608085458928889 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)0.2608085458928889 0
+ 2
+0.2608085458928889 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.26311950223012404 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.26311950223012404 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.26311950223012404 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.26311950223012404 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.26561095253987743 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.26561095253987743 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.26561095253987743 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.26561095253987743 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2679856251586567 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.2679856251586567 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2679856251586567 0
+2020-06-17 10:07:13,832 ESCNN INFO: [1/300], [80/110], global_step: 80, speed: 7.1 samples/sec, acc: 0.3355, iou_Mean_map: 0.3182, loss: 0.2612, loss1: 0.2105, loss2: 0.1783, , lr:0.01, time:13.99
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2679856251586567 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.270425502278588 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.270425502278588 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.270425502278588 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.270425502278588 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2725756840272383 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.2725756840272383 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2725756840272383 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2725756840272383 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2750851766629653 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2750851766629653 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2750851766629653 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.2750851766629653 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.27755484797737817 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.27755484797737817 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.27755484797737817 0
+0.27755484797737817 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2799328484318473 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2799328484318473 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.2799328484318473 0
+0.2799328484318473 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.28226833397691903 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.28226833397691903 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.28226833397691903 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.28226833397691903 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.28457367582754656 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.28457367582754656 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.28457367582754656 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.28457367582754656 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.28695849640802906 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.28695849640802906 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.28695849640802906 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.28695849640802906 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.2891854847019369 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.2891854847019369 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2891854847019369 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2891854847019369 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.29146028540351177 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.29146028540351177 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.29146028540351177 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.29146028540351177 0
+2020-06-17 10:07:28,156 ESCNN INFO: [1/300], [90/110], global_step: 90, speed: 7.0 samples/sec, acc: 0.3361, iou_Mean_map: 0.3188, loss: 0.2502, loss1: 0.1750, loss2: 0.1556, , lr:0.01, time:14.32
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2937886530702764 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2937886530702764 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2937886530702764 0
+0.2937886530702764 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2959475855935704 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.2959475855935704 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2959475855935704 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2959475855935704 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.2981884338638999 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.2981884338638999 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.2981884338638999 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.2981884338638999 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.30053099664774807 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.30053099664774807 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.30053099664774807 0
+0.30053099664774807 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.3027206746014682 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.3027206746014682 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.3027206746014682 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.3027206746014682 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.3048141441561959 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.3048141441561959 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.3048141441561959 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.3048141441561959 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.30701190775091 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.30701190775091 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.30701190775091 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.30701190775091 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.309304927424951 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.309304927424951 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.309304927424951 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.309304927424951 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.31144556457346134 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.31144556457346134 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.31144556457346134 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.31144556457346134 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.31368983401493594 0
+2020-06-17 10:07:42,443 ESCNN INFO: [1/300], [100/110], global_step: 100, speed: 7.0 samples/sec, acc: 0.3384, iou_Mean_map: 0.3209, loss: 0.2469, loss1: 0.1825, loss2: 0.1747, , lr:0.01, time:14.29
+0.31368983401493594 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.31368983401493594 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)0.31368983401493594 1
+ 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.31599030101841147 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.31599030101841147 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.31599030101841147 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.31599030101841147 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.31815290545875374 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.31815290545875374 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.31815290545875374 0
+0.31815290545875374 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.32042272199283944 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.32042272199283944 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.32042272199283944 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.32042272199283944 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.3225365866314281 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.3225365866314281 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.3225365866314281 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.3225365866314281 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.32469067709012467 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.32469067709012467 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.32469067709012467 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.32469067709012467 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.326894085244699 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.326894085244699 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.326894085244699 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.326894085244699 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.3292208723046563 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.3292208723046563 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.3292208723046563 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.3292208723046563 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.3314969133247029 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.3314969133247029 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.3314969133247029 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.3314969133247029 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.33378960300575605 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.33378960300575605 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.33378960300575605 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.33378960300575605 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.33611861602826554 0
+2020-06-17 10:07:57,076 ESCNN INFO: [1/300], [110/110], global_step: 110, speed: 6.8 samples/sec, acc: 0.3397, iou_Mean_map: 0.3222, loss: 0.2562, loss1: 0.1616, loss2: 0.1469, , lr:0.01, time:14.63
+0.33611861602826554 2
+0.33611861602826554 1
+0.33611861602826554 3
+2020-06-17 10:07:57,183 ESCNN INFO: [1/300], train_loss: 0.3361, time: 166.8149, lr: 0.01
+test model:   0%|          | 0/47 [00:00<?, ?it/s]SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+test model:   2%|2         | 1/47 [00:02<01:54,  2.49s/it]test model:   4%|4         | 2/47 [00:02<01:20,  1.78s/it]test model:   6%|6         | 3/47 [00:02<00:56,  1.28s/it]test model:   9%|8         | 4/47 [00:02<00:40,  1.07it/s]test model:  11%|#         | 5/47 [00:02<00:28,  1.46it/s]test model:  13%|#2        | 6/47 [00:03<00:21,  1.94it/s]test model:  15%|#4        | 7/47 [00:03<00:15,  2.53it/s]test model:  17%|#7        | 8/47 [00:03<00:12,  3.22it/s]test model:  19%|#9        | 9/47 [00:03<00:09,  3.97it/s]test model:  21%|##1       | 10/47 [00:03<00:07,  4.75it/s]test model:  23%|##3       | 11/47 [00:03<00:06,  5.51it/s]test model:  26%|##5       | 12/47 [00:03<00:05,  6.19it/s]test model:  28%|##7       | 13/47 [00:03<00:04,  6.83it/s]test model:  30%|##9       | 14/47 [00:03<00:04,  7.31it/s]test model:  32%|###1      | 15/47 [00:04<00:04,  7.66it/s]test model:  34%|###4      | 16/47 [00:04<00:03,  7.99it/s]test model:  36%|###6      | 17/47 [00:04<00:03,  8.24it/s]test model:  38%|###8      | 18/47 [00:04<00:03,  8.40it/s]test model:  40%|####      | 19/47 [00:04<00:03,  8.51it/s]test model:  43%|####2     | 20/47 [00:04<00:03,  8.55it/s]test model:  45%|####4     | 21/47 [00:04<00:03,  8.62it/s]test model:  47%|####6     | 22/47 [00:04<00:02,  8.65it/s]test model:  49%|####8     | 23/47 [00:05<00:02,  8.66it/s]test model:  51%|#####1    | 24/47 [00:05<00:02,  8.74it/s]test model:  53%|#####3    | 25/47 [00:05<00:02,  8.78it/s]test model:  55%|#####5    | 26/47 [00:05<00:02,  8.75it/s]test model:  57%|#####7    | 27/47 [00:05<00:02,  8.77it/s]test model:  60%|#####9    | 28/47 [00:05<00:02,  8.79it/s]test model:  62%|######1   | 29/47 [00:05<00:02,  8.78it/s]test model:  64%|######3   | 30/47 [00:05<00:01,  8.79it/s]test model:  66%|######5   | 31/47 [00:05<00:01,  8.77it/s]test model:  68%|######8   | 32/47 [00:06<00:01,  8.73it/s]test model:  70%|#######   | 33/47 [00:06<00:01,  8.71it/s]test model:  72%|#######2  | 34/47 [00:06<00:01,  8.72it/s]test model:  74%|#######4  | 35/47 [00:06<00:01,  8.74it/s]test model:  77%|#######6  | 36/47 [00:06<00:01,  8.82it/s]test model:  79%|#######8  | 37/47 [00:06<00:01,  8.77it/s]test model:  81%|########  | 38/47 [00:06<00:01,  8.73it/s]test model:  83%|########2 | 39/47 [00:06<00:00,  8.69it/s]test model:  85%|########5 | 40/47 [00:06<00:00,  8.63it/s]test model:  87%|########7 | 41/47 [00:07<00:00,  8.63it/s]test model:  89%|########9 | 42/47 [00:07<00:00,  8.68it/s]test model:  91%|#########1| 43/47 [00:07<00:00,  8.74it/s]test model:  94%|#########3| 44/47 [00:07<00:00,  8.74it/s]test model:  96%|#########5| 45/47 [00:07<00:00,  8.78it/s]test model:  98%|#########7| 46/47 [00:07<00:00,  8.82it/s]test model: 100%|##########| 47/47 [00:09<00:00,  1.47it/s]test model: 100%|##########| 47/47 [00:09<00:00,  4.83it/s]
+FPS:19.520814409791036
+2020-06-17 10:08:07,103 ESCNN INFO: test: acc: 0.340226, MeanIoU: 0.323684
+2020-06-17 10:08:07,104 ESCNN INFO: current best, Mean Acc: 0.340226, MeanIoU: 0.323684, train_loss: 0.336119, best_model_epoch: 1.000000, 
+2020-06-17 10:08:09,437 ESCNN INFO: Saving current best: /data/ESCCN2/output/ESCNN_resnest101_aspp_FPEM_FFM_espp_20200617_100501/checkpoint/model_latest.pth
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.0022199003533883528 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.0022199003533883528 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.0022199003533883528 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.0022199003533883528 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.004381061819466678 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.004381061819466678 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.004381061819466678 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.004381061819466678 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.006520036540248178 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.006520036540248178 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+0.006520036540248178 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+0.006520036540248178 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.00863687355409969 1
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 1
+0.00863687355409969 3
+0.00863687355409969 0
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 3
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 0
+0.00863687355409969 2
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+) 2
+Warning: Warning: Traceback of forward call that caused the error:
+  File "tools/train.py", line 76, in <module>
+    main(config)
+  File "tools/train.py", line 59, in main
+    trainer.train()
+  File "/data/ESCCN2/base/base_trainer.py", line 117, in train
+    self.epoch_result = self._train_epoch(epoch)    # 留给子类复写
+  File "/data/ESCCN2/trainer/trainer.py", line 69, in _train_epoch
+    loss_dict = self.criterion(preds, batch)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/data/ESCCN2/models/criterion.py", line 44, in forward
+    loss2 = self.criterion(scale_pred, target)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 916, in forward
+    ignore_index=self.ignore_index, reduction=self.reduction)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/functional.py", line 2021, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, None, ignore_index, None, reduction)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/functional.py", line 1317, in log_softmax
+    ret = input.log_softmax(dim)
+Traceback of forward call that caused the error:
+  File "tools/train.py", line 76, in <module>
+    main(config)
+  File "tools/train.py", line 59, in main
+    trainer.train()
+  File "/data/ESCCN2/base/base_trainer.py", line 117, in train
+    self.epoch_result = self._train_epoch(epoch)    # 留给子类复写
+  File "/data/ESCCN2/trainer/trainer.py", line 69, in _train_epoch
+    loss_dict = self.criterion(preds, batch)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/data/ESCCN2/models/criterion.py", line 44, in forward
+    loss2 = self.criterion(scale_pred, target)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 916, in forward
+    ignore_index=self.ignore_index, reduction=self.reduction)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/functional.py", line 2021, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, None, ignore_index, None, reduction)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/functional.py", line 1317, in log_softmax
+    ret = input.log_softmax(dim)
+ ( (print_stackprint_stack at  at /opt/conda/conda-bld/pytorch_1579027003190/work/torch/csrc/autograd/python_anomaly_mode.cpp/opt/conda/conda-bld/pytorch_1579027003190/work/torch/csrc/autograd/python_anomaly_mode.cpp::57)
+57)
+Warning: Traceback of forward call that caused the error:
+  File "tools/train.py", line 76, in <module>
+    main(config)
+  File "tools/train.py", line 59, in main
+    trainer.train()
+  File "/data/ESCCN2/base/base_trainer.py", line 117, in train
+    self.epoch_result = self._train_epoch(epoch)    # 留给子类复写
+  File "/data/ESCCN2/trainer/trainer.py", line 69, in _train_epoch
+    loss_dict = self.criterion(preds, batch)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/data/ESCCN2/models/criterion.py", line 44, in forward
+    loss2 = self.criterion(scale_pred, target)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 916, in forward
+    ignore_index=self.ignore_index, reduction=self.reduction)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/functional.py", line 2021, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, None, ignore_index, None, reduction)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/functional.py", line 1317, in log_softmax
+    ret = input.log_softmax(dim)
+ (print_stack at /opt/conda/conda-bld/pytorch_1579027003190/work/torch/csrc/autograd/python_anomaly_mode.cpp:57)
+Warning: Traceback of forward call that caused the error:
+  File "tools/train.py", line 76, in <module>
+    main(config)
+  File "tools/train.py", line 59, in main
+    trainer.train()
+  File "/data/ESCCN2/base/base_trainer.py", line 117, in train
+    self.epoch_result = self._train_epoch(epoch)    # 留给子类复写
+  File "/data/ESCCN2/trainer/trainer.py", line 69, in _train_epoch
+    loss_dict = self.criterion(preds, batch)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/data/ESCCN2/models/criterion.py", line 44, in forward
+    loss2 = self.criterion(scale_pred, target)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 916, in forward
+    ignore_index=self.ignore_index, reduction=self.reduction)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/functional.py", line 2021, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, None, ignore_index, None, reduction)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/nn/functional.py", line 1317, in log_softmax
+    ret = input.log_softmax(dim)
+ (print_stack at /opt/conda/conda-bld/pytorch_1579027003190/work/torch/csrc/autograd/python_anomaly_mode.cpp:57)
+Traceback (most recent call last):
+  File "tools/train.py", line 76, in <module>
+    main(config)
+  File "tools/train.py", line 59, in main
+    trainer.train()
+  File "/data/ESCCN2/base/base_trainer.py", line 117, in train
+    self.epoch_result = self._train_epoch(epoch)    # \u7559\u7ed9\u5b50\u7c7b\u590d\u5199
+  File "/data/ESCCN2/trainer/trainer.py", line 81, in _train_epoch
+    loss_dict['loss'].backward()
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/tensor.py", line 195, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/autograd/__init__.py", line 99, in backward
+    allow_unreachable=True)  # allow_unreachable flag
+RuntimeError: Function 'LogSoftmaxBackward' returned nan values in its 0th output.
+Traceback (most recent call last):
+  File "tools/train.py", line 76, in <module>
+    main(config)
+  File "tools/train.py", line 59, in main
+    trainer.train()
+  File "/data/ESCCN2/base/base_trainer.py", line 117, in train
+    self.epoch_result = self._train_epoch(epoch)    # \u7559\u7ed9\u5b50\u7c7b\u590d\u5199
+  File "/data/ESCCN2/trainer/trainer.py", line 81, in _train_epoch
+    loss_dict['loss'].backward()
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/tensor.py", line 195, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/autograd/__init__.py", line 99, in backward
+    allow_unreachable=True)  # allow_unreachable flag
+RuntimeError: Function 'LogSoftmaxBackward' returned nan values in its 0th output.
+Traceback (most recent call last):
+  File "tools/train.py", line 76, in <module>
+Traceback (most recent call last):
+  File "tools/train.py", line 76, in <module>
+    main(config)
+  File "tools/train.py", line 59, in main
+    trainer.train()
+  File "/data/ESCCN2/base/base_trainer.py", line 117, in train
+    self.epoch_result = self._train_epoch(epoch)    # \u7559\u7ed9\u5b50\u7c7b\u590d\u5199
+  File "/data/ESCCN2/trainer/trainer.py", line 81, in _train_epoch
+    main(config)
+  File "tools/train.py", line 59, in main
+    loss_dict['loss'].backward()
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/tensor.py", line 195, in backward
+    trainer.train()
+  File "/data/ESCCN2/base/base_trainer.py", line 117, in train
+    torch.autograd.backward(self, gradient, retain_graph, create_graph)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/autograd/__init__.py", line 99, in backward
+    self.epoch_result = self._train_epoch(epoch)    # \u7559\u7ed9\u5b50\u7c7b\u590d\u5199
+  File "/data/ESCCN2/trainer/trainer.py", line 81, in _train_epoch
+    allow_unreachable=True)  # allow_unreachable flag
+RuntimeError: Function 'LogSoftmaxBackward' returned nan values in its 0th output.
+    loss_dict['loss'].backward()
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/tensor.py", line 195, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/autograd/__init__.py", line 99, in backward
+    allow_unreachable=True)  # allow_unreachable flag
+RuntimeError: Function 'LogSoftmaxBackward' returned nan values in its 0th output.
+Traceback (most recent call last):
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/distributed/launch.py", line 263, in <module>
+    main()
+  File "/data/anaconda3/envs/ccnet/lib/python3.6/site-packages/torch/distributed/launch.py", line 259, in main
+    cmd=cmd)
+subprocess.CalledProcessError: Command '['/data/anaconda3/envs/ccnet/bin/python', '-u', 'tools/train.py', '--local_rank=3', '--config_file', 'config/melons_aspp.yaml']' returned non-zero exit status 1.
+*****************************************
+Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+*****************************************

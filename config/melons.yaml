@@ -1,0 +1,44 @@
+name: ESCNN
+dataset:
+  train:
+    dataset:
+      type: melonDataset # 数据集类型
+      args:
+        data_path: # 一个存放 img_path \t gt_path的文件
+          - ''
+        transforms: # 对图片进行的变换方式
+          - type: ToTensor
+            args: {}
+          - type: Normalize
+            args:
+              mean: [0.5081455, 0.5081455, 0.5081455]
+              std: [0.25244877, 0.25244877, 0.25244877]
+        img_mode: RGB
+
+    loader:
+      batch_size: 1
+      shuffle: true
+      pin_memory: false
+      num_workers: 0
+      collate_fn: ''
+  validate:
+    dataset:
+      type: melonDataset
+      args:
+        data_path:
+          - ''
+        transforms:
+          - type: ToTensor
+            args: {}
+          - type: Normalize
+            args:
+              mean: [0.5081455, 0.5081455, 0.5081455]
+              std: [0.25244877, 0.25244877, 0.25244877]
+        img_mode: RGB
+
+    loader:
+      batch_size: 1
+      shuffle: true
+      pin_memory: false
+      num_workers: 0
+      collate_fn:
